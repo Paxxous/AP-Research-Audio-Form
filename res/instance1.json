@@ -1,0 +1,41 @@
+{
+    "1": {
+        "name": "pity party.",
+        "ref": "./res/audio/pityparty/a pity party. ORIGINAL.wav",
+        "hidden_signal": "./res/audio/pityparty/a pity party. Hidden Reference Signal.wav",
+
+        "9db": {
+            "bass_boost": "./res/audio/pityparty/a 9db pity party. Bass Boost.wav",
+            "treble_boost": "./res/audio/pityparty/a 9db pity party. Treble Boost.wav",
+            "mid_boost": "./res/audio/pityparty/a 9db pity party. Midrange boost.wav",
+            "mid_dip": "./res/audio/pityparty/a 9db pity party. Midrange Dip.wav"
+        },
+
+        "4.5db": {
+            "bass_boost": "./res/audio/pityparty/a 4.5db pity party. Bass Boost.wav",
+            "treble_boost": "./res/audio/pityparty/a 4.5db pity party. Treble Boost.wav",
+            "mid_boost": "./res/audio/pityparty/a 4.5db pity party. Midrange boost.wav",
+            "mid_dip": "./res/audio/pityparty/a 4.5db pity party. Midrange Dip.wav"
+        }
+    },
+
+    "2": {
+        "name": "5_4 Thing",
+        "ref": "./res/audio/5_4thing/a 5_4 thing ORIGINAL.wav",
+        "hidden_signal": "./res/audio/5_4thing/a 5_4 thing Hidden Reference Signal.wav",
+
+        "9db": {
+            "bass_boost": "./res/audio/5_4thing/a 9db 5_4 thing Bass Boost.wav",
+            "treble_boost": "./res/audio/5_4thing/a 9db 5_4 thing Treble Boost.wav",
+            "mid_boost": "./res/audio/5_4thing/a 9db 5_4 thing Midrange boost.wav",
+            "mid_dip": "./res/audio/5_4thing/a 9db 5_4 thing Midrange Dip.wav"
+        },
+
+        "4.5db": {
+            "bass_boost": "./res/audio/5_4thing/a 4.5db 5_4 thing Bass Boost.wav",
+            "treble_boost": "./res/audio/5_4thing/a 4.5db 5_4 thing Treble Boost.wav",
+            "mid_boost": "./res/audio/5_4thing/a 4.5db 5_4 thing Midrange boost.wav",
+            "mid_dip": "./res/audio/5_4thing/a 4.5db 5_4 thing Midrange Dip.wav"
+        }
+    }
+}

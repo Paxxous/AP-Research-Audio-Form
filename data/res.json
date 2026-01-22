@@ -1,0 +1,48 @@
+[
+    {
+        "name": "pity party.",
+        "session": 1,
+        "trial": 1,
+        "stage": "FP",
+        "ratings": {
+            "mid_boost": 0,
+            "bass_boost": 0,
+            "hidden_signal": 0,
+            "mid_dip": 0,
+            "treble_boost": 0
+        }
+    },
+    {
+        "name": "pity party.",
+        "session": 1,
+        "trial": 1,
+        "stage": "CP",
+        "ratings": {
+            "bass_boost": 0,
+            "mid_dip": 0
+        }
+    },
+    {
+        "name": "5_4 Thing",
+        "session": 1,
+        "trial": 2,
+        "stage": "FP",
+        "ratings": {
+            "bass_boost": 0,
+            "hidden_signal": 0,
+            "treble_boost": 0,
+            "mid_boost": 0,
+            "mid_dip": 0
+        }
+    },
+    {
+        "name": "5_4 Thing",
+        "session": 1,
+        "trial": 2,
+        "stage": "FP",
+        "ratings": {
+            "bass_boost": 0,
+            "hidden_signal": 0
+        }
+    }
+]
