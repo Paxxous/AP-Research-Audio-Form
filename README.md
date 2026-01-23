@@ -8,7 +8,7 @@ This used to be a very in-depth github repo, but I wasn't pushing any changes to
 
 ## Behaviour
 
-The UI pools the audio that it needs to use from the instance1.json file udner res, (will be soon expanded to different instances for a more diverse range of music)
+The UI pools the audio that it needs to use from the instance1.json file under res, (will be soon expanded to different instances for a more diverse range of music)
 
 There two trials (or songs) that the listener will rate, each trial has two steps:
 * **Coarse Personalization Test**: Four versions of the songs modified with EQ curves that hold a dynamic range of 9db will be presented, and the listener will rate them based off of a ITU-R BS 1284 scale.
